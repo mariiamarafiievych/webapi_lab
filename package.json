@@ -1,0 +1,17 @@
+{
+  "name": "webapi_lab_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jasmine": "^3.7.0",
+    "jasmine-reporters": "^2.4.0"
+  }
+}
